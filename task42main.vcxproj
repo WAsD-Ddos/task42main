@@ -130,6 +130,7 @@
     <ClCompile Include="LevelA.cpp" />
     <ClCompile Include="LevelB.cpp" />
     <ClCompile Include="LevelC.cpp" />
+    <ClCompile Include="LevelD.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
